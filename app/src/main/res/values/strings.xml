@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">20-RPMY</string>
+    <string name="enter_hint">Введите сообщение</string>
+    <string name="send_button">Отправить</string>
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Неправильно!</string>
+    <string name="send_email_button">Отправить письмо</string>
+    <string name="choose_app">Выберите приложение</string>
+</resources>
